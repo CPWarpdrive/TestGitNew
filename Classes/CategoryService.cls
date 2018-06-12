@@ -8,6 +8,8 @@ public class CategoryService {
 		test14;
 		test16;
 		test17;
+		test15;
+		test15;
 		insert categoryList;
 	}
 	public static void updateCategory(List<Category__c> categoryList){

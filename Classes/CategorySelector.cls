@@ -8,13 +8,14 @@ public class CategorySelector {
 		test13;
 		test14;
 		test15;
+		test15;
 		return null;
 	}
 
 
     //Query all SH checCategroy list from Opporutnity Id
 	public static Map<Id, List<Category__c>> getSHCategoryMapByOppIds(Set<Id> oppIds){
-	
+	test15;
 	 return null;
 	}
 
