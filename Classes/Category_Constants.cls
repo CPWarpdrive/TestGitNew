@@ -9,6 +9,8 @@ public class Category_Constants {
 	test13;
 	test14;
 	test15;
+	test17;
+	test17;
 
 	
 }
